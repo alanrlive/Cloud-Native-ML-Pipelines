@@ -1,6 +1,6 @@
 # Cloud-Native-ML-Pipelines*
 
-I & Machine Learning Portfolio
+AI & Machine Learning Portfolio
 Author: Alan Reed
 
 Welcome to my AI Engineering portfolio. This repository showcases end-to-end Machine Learning solutions, focusing on cloud-native architectures and production-level MLOps.
